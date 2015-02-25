@@ -92,17 +92,17 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Task" borderStyle="roundedRect" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="INa-29-2ss">
-                                <rect key="frame" x="16" y="72" width="300" height="30"/>
+                                <rect key="frame" x="16" y="94" width="300" height="30"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
                             <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Subtask" borderStyle="roundedRect" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="ck4-KJ-0Qx">
-                                <rect key="frame" x="16" y="137" width="300" height="30"/>
+                                <rect key="frame" x="16" y="159" width="300" height="30"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
                             <datePicker contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" datePickerMode="dateAndTime" minuteInterval="1" translatesAutoresizingMaskIntoConstraints="NO" id="eMT-Qp-Eg2">
-                                <rect key="frame" x="0.0" y="190" width="375" height="162"/>
+                                <rect key="frame" x="0.0" y="212" width="375" height="162"/>
                                 <date key="date" timeIntervalSinceReferenceDate="446486289.19037497">
                                     <!--2015-02-24 15:58:09 +0000-->
                                 </date>
